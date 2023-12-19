@@ -81,15 +81,15 @@ Mux2_1_32bits mux32 (
 .sel(i_AluSource),
 .out(Mux32Out)
 );
-ALU_32 ALU(
-.i_clk(i_clk),
-.i_reset('b0),
-.i_A('d0),
+  
+ALU_32bit ALU(
 .i_in0(RFout),
 .i_in1(Mux32Out),
+.i_A(),
 .i_select(i_AluControl),
 .o_out(o_ALU_Out)
   );
+  
 Mux2_1_32bits mux32_LoadDM_Address (
 .in0(o_ALU_Out),
 .in1(i_WriteAddressDM),
@@ -106,8 +106,8 @@ DataMemory DataMemory(
 .i_clk(i_clk),
 .i_Address(DM_Address),
 .i_WriteData(DM_Value),
-.i_WriteEn(i_WriteEnDataMemory), //
-.i_ReadEn(i_ReadEnDataMemory), //
+.i_WriteEn(i_WriteEnDataMemory), 
+.i_ReadEn(i_ReadEnDataMemory), 
 .o_ReadData(DataMemoryOut) 
   );
 Mux2_1_32bits mux32_afterDM (

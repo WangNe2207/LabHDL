@@ -9,7 +9,7 @@ reg [15:0] immediate;
 reg regDst;
 reg ReadWriteRF;
 reg [31:0] WriteData;
-reg RFSource; //
+reg RFSource; 
 wire [31:0] RFout;
 wire [31:0] RFout2;
 // ALU I/O
@@ -48,49 +48,34 @@ begin
     ReadWriteRF <= 'b1;
     RFSource <= 'b1;
     second5bits <= i;
-    WriteData <= i;
+    WriteData <= 32-i;
     @(posedge clk);
   end
   
 
-  //i = 0;
-  //while(i<32)
-  //begin
-  //  ReadWriteRF <= 'b1;
-   // first5bits <= i;
-    //ReadAddress2 <= 32 -i -1;
-  //  i=i+1;
-  //  @(posedge clk);
-  //end
-  // Test Add instructe
   regDst <= 'b1;
   ReadWriteRF <= 'b1;
   first5bits <= 'd2;
   second5bits <= 'd3; 
   immediate <= 'b0000100000000000;
   @(posedge clk);
-  @(posedge clk);
   AluSource <= 'b0;
-  @(posedge clk);
   AluControl <= 3'b101;
   DMSource <= 'b0;
   DMValue <= 'b0;
   @(posedge clk);
-  @(posedge clk);
-  
   MemToReg <= 'b1;
   @(posedge clk);
   ReadWriteRF <= 'b1;
   RFSource <= 'b0;
   first5bits <= 'b00001;
   @(posedge clk);
-  @(posedge clk);
+
   $stop;
 end
 
 Datapath Datapath (
 .i_clk(clk),
-//input [5:0] i_opcode,
 // RF I/O
 .i_first5bits(first5bits),
 .i_second5bits(second5bits),

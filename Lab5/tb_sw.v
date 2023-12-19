@@ -75,59 +75,17 @@ begin
   second5bits <= 'd1;
   immediate <= 'd0;
   @(posedge clk);
-  @(posedge clk);
   AluSource <= 'b1;
-  @(posedge clk);
   AluControl <= 3'b101;
-  @(posedge clk);
-  @(posedge clk);
   @(posedge clk);
   WriteEnDataMemory <= 'b1;
   ReadEnDataMemory <='b0;
-  //@(posedge clk);
   @(posedge clk);
-  //@(posedge clk);
   DMSource <= 'b1;
   DMValue <= 'b1;
   WriteEnDataMemory <= 'b0;
   ReadEnDataMemory <='b1;
   WriteAddressDM <=  'd2;
-  //=====================//
-  //MemToReg <= 'b0;
-  //@(posedge clk);
-  //ReadWriteRF <= 'b1;
-  //first5bits <= 'd1;
-  //second5bits <= 'd1;
-  //i = 0;
-  //while(i<32)
-  //begin
-  //  ReadWriteRF <= 'b1;
-   // first5bits <= i;
-    //ReadAddress2 <= 32 -i -1;
-  //  i=i+1;
-  //  @(posedge clk);
-  //end
-  // Test Add instructe
-  //regDst <= 'b1;
-  //ReadWriteRF <= 'b1;
-  //first5bits <= 'd9;
-  //second5bits <= 'd10; 
-  //immediate <= 'b0100000000000000;
-  //@(posedge clk);
-  //@(posedge clk);
-  //AluSource <= 'b0;
-  //@(posedge clk);
-  //AluControl <= 3'b101;
-  //DMSource <= 'b0;
-  //DMValue <= 'b0;
-  //@(posedge clk);
-  //@(posedge clk);
-  
-  //MemToReg <= 'b1;
-  //@(posedge clk);
-  //ReadWriteRF <= 'b1;
-  //RFSource <= 'b0;
-  //first5bits <= 'b01000;
   @(posedge clk);
   $stop;
 end
