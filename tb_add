@@ -1,0 +1,18 @@
+module tb_add;
+  reg a, b, clk;
+  wire x, y;
+  
+  add add_testing (.a(a), .b(b), .clk(clk), .x(x) ,.y(y));
+  
+  initial a = 0, b = 0;
+  initial begin
+    clk = 0;
+    forever #5 clk = ~clk;
+  end
+  initial 
+  forever @(posedge clk)
+  begin
+     #2 a = $random;
+  end
+   
+endmodule

@@ -1,0 +1,13 @@
+module tb_DTCU (
+  input [5:0] opcode,
+  input [4:0] rs, rt, rd,
+  input [15:0] immediate
+  output [31:0] i_data
+) ;
+ assign i_data  [31:26] = opcode;
+ assign i_data  [25:21] = rs;
+ assign i_data  [20:16] = rt;
+ assign i_data  [15:11] = rd;
+ assign i_data  [15:0]  = immediate;
+  
+endmodule

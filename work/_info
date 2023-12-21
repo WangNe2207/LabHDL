@@ -1,0 +1,263 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadd
+Z1 !s100 UzOJa_4W<MYIHa[ccgR`d1
+Z2 Id9BDd6VH3cWE]Tk`czZ;_3
+Z3 VT^8@cVoBiQa@U7bMzD<bK2
+Z4 dE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new
+Z5 w1703092312
+Z6 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\add.v
+Z7 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\add.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\add.v|
+Z10 o-work work -O0
+Z11 !s108 1703129560.070000
+Z12 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_32b
+Z13 !s100 Y]]4TW3<dn08T7z;Cj0^^1
+Z14 IlD[:THS>EWmG8W=XIcLV80
+Z15 VNoLJzo3N6Y5GMTQTOo_VP3
+R4
+Z16 w1702893615
+Z17 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_32b.v
+Z18 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_32b.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_32b.v|
+R10
+Z20 n@a@l@u_32b
+Z21 !s108 1703129559.102000
+Z22 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_32b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Control
+Z23 !s100 H^T?lE7??2H9:5CiFCkc;0
+Z24 IP5SiGLg2;IXH31O=DYBeL3
+Z25 VIH>U86Z^QhSbezk?;8E9]2
+R4
+Z26 w1703109641
+Z27 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_Control.v
+Z28 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_Control.v
+L0 2
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_Control.v|
+R10
+Z30 n@a@l@u_@control
+Z31 !s108 1703129559.246000
+Z32 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z33 !s100 Wa<zWS?[;LYY=bHlZF<3k2
+Z34 IMIfBl7>?mJVRY;MfGBW032
+Z35 V>jKg4?P0oiJ^`C]0[V]ER0
+R4
+Z36 w1703128842
+Z37 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\DataMemory.v
+Z38 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\DataMemory.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\DataMemory.v|
+R10
+Z40 n@data@memory
+Z41 !s108 1703129559.486000
+Z42 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\DataMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath_CU
+Z43 I@jLnSMnllU1LiVfH@9kSG3
+Z44 VW2gVfaRM?X3]n1?NeZOG01
+R4
+Z45 w1703129704
+Z46 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Datapath_CU.v
+Z47 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Datapath_CU.v
+L0 2
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Datapath_CU.v|
+R10
+Z49 n@datapath_@c@u
+!i10b 1
+Z50 !s100 6z3n`9R[4=GFLU:UKcVfT1
+!s85 0
+Z51 !s108 1703129711.003000
+Z52 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Datapath_CU.v|
+!s101 -O0
+vDTCU_convert
+Z53 !s100 GdPZKiJ1kKHzWX=<NZE[@1
+Z54 IJ;fih]d:1jC4d:H^ME^iR3
+Z55 Vb8T70Hk9iheZXP7bGoJIP2
+R4
+Z56 w1703107111
+Z57 8E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v
+Z58 FE:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v
+L0 1
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v|
+R10
+Z60 n@d@t@c@u_convert
+Z61 !s108 1703129560.206000
+Z62 !s107 E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstruction_Decoder
+Z63 !s100 lkEcHF?AYOl1=:n>78Mzm2
+Z64 ITAJ>`N9hYnH47Dkl5^GZa3
+Z65 VHFfK=a9SIe]iV_ZUiih6=1
+R4
+Z66 w1703127617
+Z67 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Instruction_Decoder.v
+Z68 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Instruction_Decoder.v
+L0 1
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Instruction_Decoder.v|
+R10
+Z70 n@instruction_@decoder
+Z71 !s108 1703129559.686000
+Z72 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Instruction_Decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2_1_32bits
+Z73 !s100 2Ma9^<O`hEPXm0F=N:<0X2
+Z74 I;?Ik9gNRdPG>69]jm>S2M1
+Z75 Vf2S@c1MF@7?]FXQb58UQZ3
+R4
+Z76 w1703107814
+Z77 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_32bits.v
+Z78 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_32bits.v
+L0 1
+R8
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_32bits.v|
+R10
+Z80 n@mux2_1_32bits
+Z81 !s108 1703129559.814000
+Z82 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_32bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2_1_5bits
+Z83 !s100 =XR]N`5eo;ZJC@CKBcX_j2
+Z84 I<AHJ6ZAD^=JeFMW:_=3aI0
+Z85 V10=MiDRGBFd<MiY;IK8ig1
+R4
+Z86 w1703125462
+Z87 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_5bits.v
+Z88 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_5bits.v
+L0 1
+R8
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_5bits.v|
+R10
+Z90 n@mux2_1_5bits
+Z91 !s108 1703129559.750000
+Z92 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_5bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z93 !s100 `4zW;e_GmEEZO=kP4mLZ80
+Z94 IoKA?7Rz=fAC@^e:O_NBH72
+Z95 VGBKW0XTXd8SSHHh8EG8h]1
+R4
+Z96 w1703113829
+Z97 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\RegisterFile.v
+Z98 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\RegisterFile.v
+L0 2
+R8
+r1
+31
+Z99 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\RegisterFile.v|
+R10
+Z100 n@register@file
+Z101 !s108 1703129559.878000
+Z102 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\RegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSignExtend
+Z103 !s100 bc[Nh8NXj0Fa5eo2M=z9<3
+Z104 ILL;67gm9<NGQjM7fU?QH;3
+Z105 V[5G@:]4GjzUcb^J_RmL=`1
+R4
+Z106 w1702466567
+Z107 8E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\SignExtend.v
+Z108 FE:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\SignExtend.v
+L0 1
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\SignExtend.v|
+R10
+Z110 n@sign@extend
+Z111 !s108 1703129559.942000
+Z112 !s107 E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\SignExtend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSinglePortRam
+Z113 !s100 F9[aNJZc^FKe?3hTaL67f2
+Z114 Ii8o;L<VW9aM[50g1KYWSg2
+Z115 V:;?B64hdcTOZLiZ5JkNA22
+R4
+R106
+Z116 8E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v
+Z117 FE:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v
+L0 1
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v|
+R10
+Z119 n@single@port@ram
+Z120 !s108 1703129560.006000
+Z121 !s107 E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_add
+!i10b 1
+Z122 !s100 Bca5Hb:f6D;MS[CG9>aXQ0
+Z123 IbCZ:XkdmIC33<[hF6ga>_3
+Z124 VaVGK5S=?WoKb<>>C2j67Y3
+R4
+Z125 w1703129446
+Z126 8tb_add.v
+Z127 Ftb_add.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1703129714.797000
+!s107 tb_add.v|
+Z128 !s90 -reportprogress|300|-work|work|tb_add.v|
+!s101 -O0
+R10
