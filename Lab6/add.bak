@@ -1,0 +1,12 @@
+module add (
+  input a, b, clk,
+  output x , y
+);
+
+always @ (posedge clk)
+begin
+  x = a + 1;
+  y = b + a;
+end
+
+endmodule

@@ -1,0 +1,85 @@
+E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/RegisterFile.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\RegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/Instruction_Decoder.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Instruction_Decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Instruction_Decoder
+
+Top level modules:
+	Instruction_Decoder
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/add.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\add.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SignExtend.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\SignExtend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/ALU_Control.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/Mux2_1_32bits.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_32bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2_1_32bits
+
+Top level modules:
+	Mux2_1_32bits
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/Datapath_CU.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Datapath_CU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath_CU
+
+Top level modules:
+	Datapath_CU
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/tb_add.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\tb_add.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_add
+
+Top level modules:
+	tb_add
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v {1 {vlog -work work E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/SinglePortRam.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SinglePortRam
+
+Top level modules:
+	SinglePortRam
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v {1 {vlog -work work E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/DTCU_convert.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DTCU_convert
+
+Top level modules:
+	DTCU_convert
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/ALU_32b.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\ALU_32b.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_32b
+
+Top level modules:
+	ALU_32b
+
+} {} {}} E:/University/Tren_Truong/Chuong_Trinh_Hoc/HK5/Thiet_Ke_He_Thong_So_Voi_HDL/Thuc_Hanh/Labs/Lab6_new/Mux2_1_5bits.v {1 {vlog -work work {E:\University\Tren_Truong\Chuong_Trinh_Hoc\HK5\Thiet_Ke_He_Thong_So_Voi_HDL\Thuc_Hanh\Labs\Lab6_new\Mux2_1_5bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2_1_5bits
+
+Top level modules:
+	Mux2_1_5bits
+
+} {} {}}
